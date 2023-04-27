@@ -1,7 +1,7 @@
 {
   "name": "react-app-template",
   "version": "0.1.0",
-  "homepage": "https://DaniilPesotskyi.github.io/react-app-template",
+  "homepage": "https://DaniilPesotskyi.github.io/goit-react-hw-01-components",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
