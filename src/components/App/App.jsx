@@ -1,4 +1,3 @@
-import css from './App.module.css'
 import user from './../../data/user.json'
 import { Profile } from '../UserProfile/Profile';
 
