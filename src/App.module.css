@@ -1,0 +1,19 @@
+.block {
+    margin: 30px;
+    padding: 20px;
+    background-color: #0b179c;
+}
+
+.textMain {
+    margin-bottom: 30px;
+
+    font-size: 50px;
+    text-align: center;
+    color: #ffff48;
+}
+
+.textSecondary {
+    font-size: 30px;
+    text-align: center;
+    color: #ffff48;
+}
